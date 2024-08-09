@@ -17,5 +17,6 @@ To view the project, simply clone the repository and open `index.html` in your p
 
 ```bash
 git clone https://github.com/StanProgrammer/MiniShop.git
-cd mini-shop
+cd MiniShop
 open index.html
+```
