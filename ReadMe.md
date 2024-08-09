@@ -16,6 +16,6 @@ MiniShop is a minimalistic clone of Amazon's UI, designed to demonstrate profici
 To view the project, simply clone the repository and open `index.html` in your preferred web browser.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/StanProgrammer/MiniShop.git
 cd mini-shop
 open index.html
